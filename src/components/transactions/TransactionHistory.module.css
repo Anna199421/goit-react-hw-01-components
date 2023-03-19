@@ -1,0 +1,22 @@
+.table {
+    width: 600px;
+    margin: 0 auto;
+    border: 1px solid rgb(230, 76, 76);
+    background-color: #fff;
+    border-radius: 5px;
+    overflow: hidden;
+  }
+  
+  .headText {
+    padding: 20px 0;
+    background-color: rgb(14, 75, 155);
+  }
+  
+  .mainText {
+    padding: 10px 0;
+    text-align: center;
+  }
+  
+  .row:nth-child(odd) {
+    background-color: silver;
+  }
